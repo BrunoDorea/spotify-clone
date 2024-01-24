@@ -177,6 +177,13 @@ body {
     padding: 8px;
     border-radius: 20px;
 }
+
+/* Repositorio Github - Extra */
+.sidebar .languages .languages__button a {
+    text-decoration: none;
+    color: #fff;
+}
+
 /* Main */
 .main-container {
     max-width: 80vw;
